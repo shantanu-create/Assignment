@@ -3,7 +3,20 @@ This project has two parts:
 2. Manager portal
 Database name: enb
 Tables : addevents, users
- 
+
+login.php for login/signup page
+events.php for events page
+mportal.php is manager portal
+style.css is for login page style
+style1.css is for events page style
+script.js is for login page style
+script1.js is for events page style
+validationadd.php for adding event
+cancel.php for removeing event
+validationlogin.php for login to events page
+validationsignup.php for signup to database 
+
+
 After successfully registering on signup page, the data is stored in users table as in code.
  
 After login, the page is redirected to events page dislaying different event buttons.
